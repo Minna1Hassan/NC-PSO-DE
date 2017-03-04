@@ -2,4 +2,4 @@ A reserach paper - more likely a literature review of Natural Computing (NC) wit
 
 Worked with Hajar Al-Rawi @linkedin.com/in/hajar-alrawi-61523496
 
-A poster infographic wa made to go along with the paper.
+A poster infographic was made to go along with the paper.
